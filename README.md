@@ -1,4 +1,4 @@
-# Smart-Wacth
+# Smart-Watch
 smart watch showcase
 
 mini-project from Udemy 
